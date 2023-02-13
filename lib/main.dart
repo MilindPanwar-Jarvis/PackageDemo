@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           child: Container(
             width: 200,
             height: 100,
-            color: Colors.blue,
+            color: Colors.red,
             child: Center(
               child: Text(
                 "This is a MODULE!",
